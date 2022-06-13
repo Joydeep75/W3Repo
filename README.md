@@ -7,3 +7,5 @@ This repository is built step by step in the tutorial.
 Additing a new line!
 
 The addition of this line is to test git pull functionality.
+
+This is from the remote branch html-skeleton.
